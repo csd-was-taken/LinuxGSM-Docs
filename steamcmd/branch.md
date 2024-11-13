@@ -31,4 +31,6 @@ Some branches require a password. This can be done by entering a password in the
 ```text
 betapassword="branchpassword"
 ```
+## Download Branch
 
+After selecting a Branch, you'll need to download it, by running the [install command](..commands/install.md) again
